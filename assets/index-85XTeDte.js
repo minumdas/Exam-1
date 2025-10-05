@@ -64,4 +64,4 @@ Please change the parent <Route path="${Z}"> to <Route path="${Z==="/"?"*":`${Z}
             50% { opacity: 0.7; }
             100% { transform: translateY(-150%); opacity: 0; }
           }
-        `})]})},H0=()=>I.jsx(g0,{children:I.jsxs(Wv,{children:[I.jsx(vi,{path:"/",element:I.jsx(O0,{})}),I.jsx(vi,{path:"/exam",element:I.jsx(U0,{})}),I.jsx(vi,{path:"/result",element:I.jsx(q0,{})})]})});nv.createRoot(document.getElementById("root")).render(I.jsx(q.StrictMode,{children:I.jsx(H0,{})}))});export default B0();
+        `})]})},H0=()=>I.jsx(g0,{children:I.jsxs(Wv,{children:[I.jsx(vi,{path:"/",element:I.jsx(O0,{})}),I.jsx(vi,{path:"/exam-1",element:I.jsx(U0,{})}),I.jsx(vi,{path:"/result",element:I.jsx(q0,{})})]})});nv.createRoot(document.getElementById("root")).render(I.jsx(q.StrictMode,{children:I.jsx(H0,{})}))});export default B0();
